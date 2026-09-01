@@ -1,4 +1,4 @@
-# KODAAI
+<p align="center">\n  <img src="assets/kodaai-social-preview.jpg" alt="KODAAI — Voice-First AI and Accessible Technology. Sesinle Güçlen." width="100%">\n</p>\n\n# KODAAI
 
 ## Voice-First AI for Accessible Education, Industrial Voice Command, and Turkish Language Technologies
 
