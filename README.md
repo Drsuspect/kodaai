@@ -18,7 +18,7 @@ KODAAI also conducts parallel research and development in:
 
 > This is KODAAI’s public project and collaboration repository. Proprietary source code, private datasets, production infrastructure, user data, voice recordings, and unpublished research are not included.
 
-## Product and Research Portfolio
+<p align="center">\n  <img src="assets/kodaai-product-family.jpg" alt="KODAAI product family: accessible voice-first education, industrial voice systems, Turkish LLM, and Turkish TTS." width="100%">\n</p>\n\n## Product and Research Portfolio
 
 | Initiative | Focus | Status |
 |---|---|---|
