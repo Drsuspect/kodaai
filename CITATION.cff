@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you reference KODAAI in research or accessibility work, please cite this project."
+title: "KODAAI"
+type: software
+authors:
+  - family-names: "GÜNEY LARRANAGA"
+    given-names: "Murat"
+    alias: "Drsuspect"
+repository-code: "https://github.com/Drsuspect/kodaai"
+url: "https://kodaai.com.tr"
+version: "0.1.0"
+date-released: "2026-09-01"
+abstract: "A voice-first AI and accessible technology initiative developing accessible education, industrial voice command, Turkish LLM, Turkish TTS, and applied artificial intelligence systems."
+keywords:
+  - voice-first AI
+  - accessibility
+  - assistive technology
+  - industrial voice command
+  - Turkish LLM
+  - Turkish TTS
+  - speech technology
+  - accessible education
+  - artificial intelligence research
